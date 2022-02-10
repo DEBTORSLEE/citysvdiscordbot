@@ -1,0 +1,5 @@
+discord.py
+asyncio
+table2ascii
+bs4
+pandas
